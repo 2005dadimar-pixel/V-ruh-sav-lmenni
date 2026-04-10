@@ -1,9 +1,3 @@
-# authors: Ymir C. Solvason og Dadi Mar Alfredsson
-# date: 01.april.2026
-
-
-
-
 from collections import deque
 
 # Þetta forrit útfærir sjálfvirkt vélmenni (rover) sem finnur leiðir, forðast árekstra
